@@ -1,0 +1,67 @@
+/* .search {
+  display: flex;
+  border: 2px solid white;
+  align-items: center;
+  justify-content: flex-end;
+  height: 32px;
+  width: 465px;
+  padding: 5px;
+  margin: 4px 0;
+  background-color: whitesmoke;
+} */
+/* .search img {
+  height: 25px;
+  width: 25px;
+} */
+/* .login {
+  display: flex;
+  height: 40px;
+  width: 162px;
+  margin: 8px 8px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid white;
+} */
+/* .login button {
+  height: 40px;
+  width: 162px;
+  text-align: center;
+  color: #2874f0;
+  font-size: 19px;
+  font-weight: 400px;
+  background-color: white;
+  
+} */
+/* .seller{
+  display: flex;
+  height: 32px;
+  width: 120px;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 5px;
+  color: white; 
+}
+.seller span{
+   font-size: 18px;
+   font-weight: 800px;
+   color: white;
+   
+
+}
+.cart{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border: 2px solid red;
+  height: 49px;
+  width: 100px;
+  justify-content: center;
+}
+
+.cart img {
+  height: 45px;
+  width: 45px;
+}
+.cart h3{
+  color: white;
+} */
